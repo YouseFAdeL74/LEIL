@@ -14,6 +14,9 @@ body{
   font-family: 'Cairo', sans-serif;
     direction: rtl;
 }
+html{
+  scroll-behavior: smooth;
+}
 .container{
   padding-left: 15px;
   padding-right: 15px;
