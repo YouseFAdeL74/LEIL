@@ -95,9 +95,6 @@ html{
 .header .container .links li a:hover::before{
   left: 0;
 }
-.header .container .links li a:hover{
-  background-color: #fafafa;
-}
 .header .container nav .checkbtn{
   font-size: 30px;
   color: black;
