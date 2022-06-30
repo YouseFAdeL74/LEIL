@@ -297,7 +297,8 @@ html{
 }
 @media(max-width:768px){
   .footer .text p{
-    font-size: 15px;
+    font-size: 14px;
+    font-weight: bold;
   }
 }
 /* End Footer */
